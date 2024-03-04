@@ -1,1 +1,1 @@
-Project in .netcore to demonstrate domain driven design
+Project in .NetCore to demonstrate Domain Driven Design
